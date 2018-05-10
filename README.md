@@ -1,4 +1,4 @@
-Floppy Bird
+Flappy Bird
 =========
 Initially, I wanted to try recreating Flappy Bird in HTML5, using a canvas and recycling the assets from the old game.
 
@@ -7,7 +7,7 @@ What I did instead is something way more primitive. This project uses nothing bu
 Live App
 ------------
 Check out a live preview of it over here:  
-http://nebez.github.io/floppybird/
+http://youruncleron.github.io/flappybird/
 
 Cool Stuff
 ---------
